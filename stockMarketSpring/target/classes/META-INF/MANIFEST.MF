@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tanmayee
+Build-Jdk: 11.0.8
+Implementation-Title: stockMarket
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.wells
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/stockMarket/
+Created-By: Maven Integration for Eclipse
+
